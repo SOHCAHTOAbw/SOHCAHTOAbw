@@ -22,7 +22,7 @@ I build data-driven systems at the intersection of mathematical thinking, reliab
 ## Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,r,cpp,java" alt="Python, R, C++, and Java" />
+  <img src="https://skillicons.dev/icons?i=python,r,cpp,java" alt="Python, R, C++, Obsidian, and Java" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
@@ -43,15 +43,6 @@ LLMs              → retrieval, agents, evaluation, and AI applications
 - Learning how to deploy and monitor models reliably
 - Building data pipelines that support analytics and AI
 - Exploring LLM applications, RAG systems, and evaluation
-
-## GitHub activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SOHCAHTOAbw&show_icons=true&hide_border=true&theme=transparent" alt="SOHCAHTOAbw's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOHCAHTOAbw&layout=compact&hide_border=true&theme=transparent" alt="Most-used languages" />
-
-</div>
 
 ---
 
