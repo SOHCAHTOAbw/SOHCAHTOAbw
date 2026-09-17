@@ -22,7 +22,7 @@ I build data-driven systems at the intersection of mathematical thinking, reliab
 ## Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,r,cpp,java" alt="Python, R, C++, Obsidian, and Java" />
+  <img src="https://skillicons.dev/icons?i=python,r,cpp,java" alt="Python, R, C++, and Java" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
