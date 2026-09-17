@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Kaizen 👋
+# COGITA·DISCE·NECTE·FARE
 
 ### Mathematics • Machine Learning • MLOps • Data Engineering • LLMs
 
