@@ -4,7 +4,7 @@
 
 ### Mathematics • Machine Learning • MLOps • Data Engineering • LLMs
 
-I build data-driven systems at the intersection of mathematical thinking, reliable engineering, and intelligent software.
+I build data-driven systems at the intersection of mathematical thinking, reliable engineering and intelligent software.
 
 [![GitHub followers](https://img.shields.io/github/followers/SOHCAHTOAbw?style=flat-square&logo=github&label=Followers)](https://github.com/SOHCAHTOAbw?tab=followers)
 [![Profile views](https://komarev.com/ghpvc/?username=SOHCAHTOAbw&style=flat-square&color=2783DE)](https://github.com/SOHCAHTOAbw)
