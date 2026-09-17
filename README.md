@@ -19,13 +19,7 @@ I build data-driven systems at the intersection of mathematical thinking, reliab
 - 🏗️ Learning scalable data engineering architectures
 - 🧠 Experimenting with large language models and intelligent applications
 
-## Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,r,cpp,java" alt="Python, R, C++, and Java" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-</p>
-#### Languages & tools
+## Languages & tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
