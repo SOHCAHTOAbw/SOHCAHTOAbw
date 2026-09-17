@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Tabuya 👋
+# Hi, I'm Kaizen 👋
 
 ### Mathematics • Machine Learning • MLOps • Data Engineering • LLMs
 
